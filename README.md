@@ -29,11 +29,8 @@ This project implements the core mechanics of Minesweeper, including random mine
 
 ## Demo
 
-[Link to live demo](#) *(Replace with your demo link)*
+[Link to live demo](https://coopermark7.github.io/The-Minesweeper-Game/) 
 
-## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
 
 
